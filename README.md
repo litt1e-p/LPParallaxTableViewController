@@ -1,2 +1,2 @@
 # LPParallaxTableViewController
-a tableViewController with parallax effect header imageView
+a tableViewController with parallax effect imageView header 
